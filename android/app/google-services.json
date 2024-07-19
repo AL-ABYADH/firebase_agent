@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889750160169",
+    "project_id": "fir-agent-88842",
+    "storage_bucket": "fir-agent-88842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889750160169:android:c1b75bfb570a2252f96d38",
+        "android_client_info": {
+          "package_name": "com.example.firebase_agent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApiU_8br3dRN_8Ps6aCWu7pXla7wpiDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
